@@ -1,0 +1,5 @@
+{
+  "name": "ระบบออกเอกสารขนส่งวัสดุ (Sand & Laterite Transport Document Generator)",
+  "description": "โปรแกรมสำหรับออกเอกสารการขนส่งทรายและลูกรัง พร้อมคำนวณค่าใช้จ่ายในรูปแบบ A4 แนวนอน",
+  "requestFramePermissions": []
+}
